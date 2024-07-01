@@ -82,7 +82,7 @@ const ContactForm = () => {
   if (requestStatus === 'success') {
     notification = {
       title: 'Message sent!',
-      message: 'Successfully sent your message.',
+      message: 'Successfully sent your message!!!!!',
       status: 'success',
     };
   }
